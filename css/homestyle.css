@@ -1,0 +1,89 @@
+body {
+  font-family: 'Poppins', sans-serif;
+
+    background-color: rgb(249, 249, 249);
+    margin-top: 100px;
+
+  }
+  
+  .container {
+    width: 1024px;
+    margin: 0 auto;
+  }
+  
+  label {
+    color: rgb(255, 255, 255);
+  }
+  
+  .card {
+    background-color: rgba(255, 255, 255, 0.7);
+    width: 450px;
+    margin: 0 auto;
+    padding: 100px 50px;
+    -webkit-box-shadow: -1px 9px 27px 5px rgba(199, 189, 189, 0.75);
+    -moz-box-shadow: -1px 9px 27px 5px rgba(211, 171, 98, 0.75);
+    box-shadow: -1px 9px 27px 5px rgba(3, 23, 90, 0.75);
+  }
+  
+  .img_container {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  img {
+    border-radius: 50%;
+    width: 150px;
+    margin: 0 auto;
+  }
+  
+  form {
+    text-align: center;
+  }
+  
+  input {
+    width: 300px;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+    margin-bottom: 15px;
+  }
+  
+  p {
+    text-align: center;
+  }
+  
+  .radios {
+    background-color: rgba(255, 255, 255);
+  }
+  
+  .radios h4 {
+    display: inline-block;
+    padding-left: auto;
+    padding-right: auto;
+    color: #868585;
+  }
+  
+  .radios label {
+    font-size: 1.3em;
+    color: #8e8a8a;
+  }
+  
+  .radios input {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .ckbox {
+    height: 8vh;
+    border-bottom: 1px solid white;
+  }
+  
+  .ckbox input {
+    margin-left: 8%;
+  }
+  
+  .register_button {
+    background-color: orange;
+    color: #fff;
+  }
+  
